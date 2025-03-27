@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="200" src="[https://i.imgflip.com/65efzo.gif](https://media.tenor.com/xxtZtsdeiNkAAAAj/husky-pc-work.gif](https://media.tenor.com/xxtZtsdeiNkAAAAj/husky-pc-work.gif)"  />
+<img align="right" height="200" src="https://media.tenor.com/xxtZtsdeiNkAAAAj/husky-pc-work.gif"  />
 
 ###
 
