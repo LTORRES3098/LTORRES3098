@@ -1,20 +1,16 @@
-<p align="center">👋 Hola, soy LTORRES3098<br><br>Desarrollador frontend con enfoque en la creación de interfaces modernas, accesibles y eficientes. Actualmente amplío mis conocimientos hacia el desarrollo fullstack.</p>
+<p align="center">👋 Hi! I'm LTORRES3098<br><br></p>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LTORRES3098/LTORRES3098/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LTORRES3098/LTORRES3098/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LTORRES3098/LTORRES3098/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/xxtZtsdeiNkAAAAj/husky-pc-work.gif"  />
+<br clear="both">
 
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="27" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
