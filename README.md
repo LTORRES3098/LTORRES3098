@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./greeting.gif"></h1>
+<h1 align="center"><img src="./greeting.gif" width="300"></h1>
 
 <div align="center">
   <img src="./portada.png" alt="banner" />
