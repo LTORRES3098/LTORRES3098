@@ -8,26 +8,34 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+---
+
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<table align="center">
+  <tr>
+    <td>
+
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
+    </td>
+    <td>
+      <p>I’m a <strong>Frontend Developer</strong> and also a <strong>musician</strong>.</p>
+      <p>I consider myself curious, always looking to learn and improve.<br/>
+      Code challenges me to think logically, music reminds me that creation also requires soul.</p>
+      <p>When I code, music is always present—it turns work into a space where I can enjoy both worlds.</p>
+      <p>I believe development and music have something in common: they are both universal languages,<br/>
+      and for me, they’re forms of expression that allow me to grow and connect with others.</p>
+    </td>
+
+  </tr>
+</table>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## 👨‍💻 Sobre mí
-
-Soy **Frontend Developer** y también **músico**.
-
-Me considero alguien curioso, siempre buscando aprender y mejorar.
-El código me reta a pensar con lógica, la música me recuerda que también hay que crear con alma.
-
-Cuando programo, la música siempre está presente, convierte el trabajo en un espacio donde puedo disfrutar de ambos mundos.
-
-Creo que tanto el desarrollo como la música tienen algo en común: ambos son lenguajes universales, y para mí son formas de expresión que me permiten crecer y conectar con los demás.
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🚀 Tecnologías que uso
+## 🚀 Technologies I Use
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -57,18 +65,14 @@ Creo que tanto el desarrollo como la música tienen algo en común: ambos son le
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📖 Aprendiendo ahora
+## 📖 Currently Learning
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+## 📊 Real Stats
 
-## 📊 Estadísticas reales
-
-💻 Código: **50%**  
-🎶 Música: **50%**  
-🐞 Bugs: **100%** (que luego arreglo)  
-
-
+💻 Code: **50%**  
+🎶 Music: **50%**  
+🐞 Bugs: **100%** (which I later fix)
